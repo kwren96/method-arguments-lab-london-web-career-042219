@@ -1,3 +1,3 @@
-def introduction (name)
-
+def introduction (firstname)
+  "Hi, my name is #{firstname}"
 end
